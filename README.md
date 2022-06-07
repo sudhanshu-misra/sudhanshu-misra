@@ -1,4 +1,4 @@
-- 👋 Hi, I’m SUDHANSHU MISRA. ^_^
+- 👋 Hi, I’m SUDHANSHU MISRA.
 - 👀 I’m interested in creating and developing projects which would help us in literally anything.
 - 🌱 I’m currently learning android development via an internship course.
 - 💞️ I’m looking to collaborate on android development and javascript projects.
